@@ -1,0 +1,161 @@
+body{
+	margin-top: 0px;
+	display: block;
+	font-family: arial;
+
+}
+
+
+img:hover{
+
+
+
+}
+
+.info
+{
+height: 150px;
+    display:block;
+    color: white;
+    text-align:left;
+    padding: 50px;
+    background-color: #05668D;
+    color:#fff;
+    font-family: Palatino, URW Palladio L, serif; 
+    padding-left: 100px;
+    padding-top: 10px;
+    margin-top: 0px;
+}
+
+.info2
+{
+padding: 30px;
+    display:block;
+    color: white;
+    text-align:left;
+    background-color: #028090;
+    color:#fff;
+    font-family: Palatino, URW Palladio L, serif; 
+    margin-top: 0px;
+}
+
+.info1{
+ font-family: Palatino, URW Palladio L, serif; 
+font-size: 20px;
+margin-top: 0px;
+height: 20px;
+
+}
+.info3
+{
+
+    display:block;
+    color: white;
+    text-align:left;
+    background-color: #00A896;
+    color:#fff;
+    font-family: Palatino, URW Palladio L, serif; 
+    margin-top: 0px;
+    padding:30px;
+
+}
+.info4
+{
+height: 380px;
+    display:block;
+    color: white;
+    text-align:left;
+    background-color: #B2DBBF;
+    color:#fff;
+    font-family: Palatino, URW Palladio L, serif; 
+   padding: 30px;}
+
+   .info5
+{
+height: 380px;
+    display:block;
+    color: white;
+    text-align:left;
+    background-color: #F3FFBD;
+    color:#fff;
+    font-family: Palatino, URW Palladio L, serif; 
+   padding: 30px;
+}
+/*.gauche{
+	 height: 100%;
+    width: 160px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #101337;
+    padding-top: 20px;
+    color:#fff;
+    font-family: Palatino, URW Palladio L, serif; 
+    padding-left: 10px;
+    padding-top: 100px;
+  font-style: italic;
+}
+#gauche1{
+
+font-family: Palatino, URW Palladio L, serif; 
+font-size: 20px;
+position: relative;
+padding-top: 100px;
+
+
+}
+*/
+
+#im{float:left;
+/*padding-top:30px; 
+padding-right:30px;
+font-size: 100%;*/
+width:150px;
+height:150px;
+transform: rotate(90deg);
+border-radius: 50%;
+margin-left: 10px;
+}
+
+
+
+
+.x{
+/*font-family: Bookman L, serif;*/
+	font-style: bold;
+color :#fff;
+
+}
+.y{
+	/*font-family: Bookman L, serif;*/
+	font-style: bold;
+color :#05668D;
+}
+h3{/*font-family: Bookman L, serif;*/
+	font-style: bold;
+color :#05668D;}
+h3:hover{
+color : #000000 ; 
+}
+
+li{
+	color:#05668D;
+	font-size: 14px;
+}
+
+h5{color:white;
+text-shadow: 2px 2px #05668D;
+}
+h2{color:white;}
+
+
+
+
+
+
+
+
+
+
+
+
